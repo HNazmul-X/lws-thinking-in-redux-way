@@ -5,8 +5,8 @@ import Router from "./Router/Router";
 
 function App() {
     const lessonData = {
-        lessonName: "Chapter one",
-        lessonNo: 1,
+        lessonName: "React State Management issue",
+        lessonNo: 1.3,
     };
 
     return (
